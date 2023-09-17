@@ -4,4 +4,6 @@ body {
 
 h1{
     color: brown;
+    background-color: rgb(234, 127, 255);
+    cursor: pointer;
 }
